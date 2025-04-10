@@ -1,0 +1,57 @@
+Index html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tiwary Technology</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tiwary Technology</h1>
+    <p>Fast, Reliable Digital Document Services</p>
+    <a href="#services" class="btn">Get Started</a>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      Tiwary Technology is your trusted digital partner, offering 24/7 access to essential online services.
+      From Voter ID downloads to Aadhaar prints and PAN verification, we deliver fast and affordable solutions.
+    </p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Voter ID Download – ₹10</li>
+      <li>Aadhaar Fingerprint Print – ₹15</li>
+      <li>Bank Passbook Print – ₹10</li>
+      <li>PAN Card Find & Print – ₹10</li>
+      <li>Driving License PDF – ₹10</li>
+      <li>Ration Card & Challan Print – ₹10</li>
+      <li>Learning License Application – ₹99</li>
+    </ul>
+  </section>
+
+  <section id="why">
+    <h2>Why Choose Us?</h2>
+    <ul>
+      <li>Live service, 24/7 support</li>
+      <li>Quick processing under 2 minutes</li>
+      <li>Affordable rates</li>
+      <li>WhatsApp customer support</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Have questions or need help?</p>
+
+  </section>
+
+  <footer>
+    <p>© 2025 Tiwary Technology. All rights reserved.</p>
+  </footer>
+</body>
